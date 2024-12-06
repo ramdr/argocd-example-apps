@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: quay.io/rhn-support-ramdr/argoproj:red
-  tag: latest
+  repository: quay.io/rhn-support-ramdr/argoproj
+  tag: red
   pullPolicy: IfNotPresent
 
 service:
