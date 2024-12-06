@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: liudali/examples_guestbook
+  repository: quay.io/rhn-support-ramdr/argoproj:red
   tag: latest
   pullPolicy: IfNotPresent
 
