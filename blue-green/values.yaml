@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: liudali/examples_guestbook:latest
+  repository: liudali/examples_guestbook
   tag: latest
   pullPolicy: IfNotPresent
 
